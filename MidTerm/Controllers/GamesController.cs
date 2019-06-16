@@ -17,7 +17,7 @@ namespace MidTerm.Controllers
         {
             GameId = 999,
             Name = "Incorrect Name",
-            Publisher = "This is a error",
+            Publisher = "This is an error",
             Year = 2035
         };
 
