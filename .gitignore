@@ -1,4 +1,4 @@
 .vs
 packages
-MidTerm/bin
-MidTerm/obj
+#MidTerm/bin
+#MidTerm/obj
